@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mat Ryer]]></title>
+        <description><![CDATA[Mat Ryer]]></description>
+        <link>http://matryer.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Sep 2017 12:17:45 GMT</lastBuildDate>
+        <atom:link href="http://matryer.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 29 Sep 2017 12:17:44 GMT</pubDate>
+        <item>
+            <title><![CDATA[Go Programming Blueprints - Second Edition]]></title>
+            <description><![CDATA[<article><h1>Go Programming Blueprints - Second Edition</h1><p>Buy Go Programming Blueprints - Second Edition 2nd Revised edition by Mat Ryer (ISBN: 9781786468949) from Amazon&apos;s Book Store. Everyday low prices and free delivery on eligible orders.</p><img src="https://images-eu.ssl-images-amazon.com/images/I/41lo9kBWtXL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg"></article>]]></description>
+            <link>https://www.amazon.co.uk/Go-Programming-Blueprints-Mat-Ryer/dp/1786468948</link>
+            <guid isPermaLink="false">2aa6a479-882f-48e0-a035-4360772d0665</guid>
+            <pubDate>Fri, 29 Sep 2017 12:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blog]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61662fb7-46cb-4cd0-bf4d-382bc46def8f.png">]]></description>
+            <link>https://medium.com/@matryer</link>
+            <guid isPermaLink="false">10053a50-296b-4571-bdf5-dee74500bad9</guid>
+            <pubDate>Wed, 28 Sep 2016 09:02:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
