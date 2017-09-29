@@ -26,8 +26,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.amazon.co.uk/Go-Programming-Blueprints-Mat-Ryer/dp/1786468948'
 title: 'BOOK - Go Programming Blueprints: Second Edition'
-datePublished: '2017-09-29T12:21:24.403Z'
-dateModified: '2017-09-29T12:21:23.663Z'
+datePublished: '2017-09-29T12:22:19.692Z'
+dateModified: '2017-09-29T12:22:19.114Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-29-go-programming-blueprints-second-edition.md
