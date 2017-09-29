@@ -1,16 +1,16 @@
-layout_spectrum: 0.6833118807990104
-typography_spectrum: 0.220557821681723
+layout_spectrum: 0.8874593272143145
+typography_spectrum: 0.8117712237036759
 color:
-  brandStrength: 0.7141778899822384
-  lightness: 0.5883844387717545
-  saturation: 0.6681579612195492
-  rhythmicContrast: 0.9398226914927363
+  brandStrength: 0.3990389266393452
+  lightness: 0.018394568287168102
+  saturation: 0.5416683319924713
+  rhythmicContrast: 0.9867784011958739
   brandColors:
-    - '#0039FB'
-    - '#70AAAF'
-    - '#403C2E'
-    - '#FFFDB6'
-    - '#D99F66'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: matryer
 navigation:
   - name: Blog
