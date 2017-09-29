@@ -20,21 +20,21 @@ keywords:
   - computers/web - general
   - 'programming & scripting languages: general'
 description: >-
-  Buy Go Programming Blueprints - Second Edition 2nd Revised edition by Mat Ryer
-  (ISBN: 9781786468949) from Amazon's Book Store. Everyday low prices and free
-  delivery on eligible orders.
+  Mat shares his knowledge of Go in a format that's easy and enjoyable. Readers
+  build real projects using Go, exploring language features, patterns and
+  practices as they go.
 app_links: []
 isBasedOnUrl: 'https://www.amazon.co.uk/Go-Programming-Blueprints-Mat-Ryer/dp/1786468948'
-title: Go Programming Blueprints - Second Edition
-datePublished: '2017-09-29T12:17:44.040Z'
-dateModified: '2017-09-29T12:16:44.958Z'
-datePublishedOriginal: '2017-09-29T12:17:44.040Z'
+title: 'BOOK - Go Programming Blueprints: Second Edition'
+datePublished: '2017-09-29T12:19:43.402Z'
+dateModified: '2017-09-29T12:19:42.497Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-09-29-go-programming-blueprints-second-edition.md
+starred: false
+datePublishedOriginal: '2017-09-29T12:17:44.040Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Go Programming Blueprints - Second Edition</h1><p>Buy Go Programming Blueprints - Second Edition 2nd Revised edition by Mat Ryer (ISBN: 9781786468949) from Amazon's Book Store. Everyday low prices and free delivery on eligible orders.</p><img src="https://images-eu.ssl-images-amazon.com/images/I/41lo9kBWtXL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg" /></article>
+<article style=""><img src="https://images-eu.ssl-images-amazon.com/images/I/41lo9kBWtXL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg" /><h1>BOOK - Go Programming Blueprints: Second Edition</h1><p>Mat shares his knowledge of Go in a format that's easy and enjoyable. Readers build real projects using Go, exploring language features, patterns and practices as they go.</p></article>
